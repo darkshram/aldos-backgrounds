@@ -9,12 +9,21 @@ What is ALDOS? Is a Fedora fork, but **without systemd**.
 Before proceed, you need:
 
  * make
- * optipng
- * rsvg-convert
 
 Just do:
 
 ```
-make && make install
+make install
 ```
-Wallpapers will install as PNG images.
+Wallpapers will install as SVG images.
+
+To install in PNG format, before proceed, you need:
+
+ * optipng
+ * rsvg-convert
+
+Then just do:
+
+```
+make install-png
+```
