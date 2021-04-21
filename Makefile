@@ -18,7 +18,8 @@ PREFIX ?= /usr
 	aldos-nord-aurora-sunset \
 	aldos-nord-sunset \
 	aldos-nord-sunset-no-logo \
-	aldos-nord-sunset-small-official-logo
+	aldos-nord-sunset-small-logo \
+	aldos-nord-sunset-small-official-logo \
 	aldos-sunshine1-1920x1080 \
 	aldos-sunshine2-1920x1080 \
 	aldos-sunshine3-1920x1080 \
