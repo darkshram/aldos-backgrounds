@@ -15,6 +15,8 @@ PREFIX ?= /usr
 	aldos_click_1920x1080 \
 	aldos-clouds-1920x1080 \
 	aldos-green-sunset \
+	aldos-nord-aurora-sunset \
+	aldos-nord-sunset \
 	aldos-sunshine1-1920x1080 \
 	aldos-sunshine2-1920x1080 \
 	aldos-sunshine3-1920x1080 \
