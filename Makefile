@@ -16,6 +16,8 @@ PREFIX ?= /usr
 	aldos-clouds-1920x1080 \
 	aldos-green-sunset \
 	aldos-nord-aurora-sunset \
+	aldos-nord-polar-sunset \
+	aldos-nord-polar-sunset-small-official-logo \
 	aldos-nord-sunset \
 	aldos-nord-sunset-no-logo \
 	aldos-nord-sunset-small-logo \
