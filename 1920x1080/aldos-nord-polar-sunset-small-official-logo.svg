@@ -20,7 +20,7 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <title
-     id="title918">ALDOS Nord Polar Sunset (with Official Logo)</title>
+     id="title918">ALDOS Nord Polar Sunset</title>
   <defs
      id="defs4">
     <linearGradient
@@ -322,7 +322,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1121.7487"
+     inkscape:cx="740.85664"
      inkscape:cy="533.7151"
      inkscape:document-units="px"
      inkscape:current-layer="g617"
@@ -363,7 +363,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>ALDOS Nord Aurora Sunset</dc:title>
+        <dc:title>ALDOS Nord Polar Sunset</dc:title>
         <dc:date>2021-04-21</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -460,7 +460,7 @@
            id="g4623-69"
            inkscape:label="Nube"
            style="filter:url(#filter4073-6)"
-           transform="matrix(0.95163961,0,0,0.95163961,651.97043,762.29045)">
+           transform="matrix(0.71372971,0,0,0.71372971,728.97782,777.46784)">
           <g
              id="g3379-3"
              transform="matrix(1.1243746,0,0,1.1243746,27.131839,0.56443915)"
